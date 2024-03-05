@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">castingapp</string>
+    <string name="chromecast_receiver_id">@string/chromecast_vhx_receiver_id</string>
+    <string name="chromecast_vhx_receiver_id">92CF0031</string>
+    <string name="chromecast_vimeo_prod_receiver_id">7742C69E</string>
+    <string name="chromecast_vimeo_dev_receiver_id">9959D566</string>
+    <string name="chromecast_metadata_expanded_controller_activity_tag">com.vimeo.player.chromecast.EXPANDED_CONTROLLER_ACTIVITY</string>
+    <string name="chromecast_metadata_notification_icon_tag">com.vimeo.player.chromecast.NOTIFICATION_ICON</string>
+</resources>
