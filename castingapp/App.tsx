@@ -34,7 +34,7 @@ function Section({children, title}: SectionProps): JSX.Element {
     client.loadMedia({
       mediaInfo: {
         contentUrl:
-          'https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4',
+          'https://firebasestorage.googleapis.com/v0/b/toylibrarynz.appspot.com/o/untitled%20(240p).mp4?alt=media&token=3eb3ae14-57ae-4e5c-9234-a31dd12231d1',
         contentType: 'video/mp4',
       },
     });
